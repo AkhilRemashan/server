@@ -14,5 +14,5 @@ function solveRect (l, b) {
     }
 }
 
-solveRect(2,4);
-solveRect(2,0);
+solveRect(2,4)
+solveRect(2,0)
